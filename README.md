@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3>Oii, bem-vindo(a)! 👋🏻</h3>
+<div>
+        <p>Me chamo Gyovanna!</p>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=glsanto-s&show_icons=true&theme=tokyonight"<br/><br />
+        </p>
+        <p>Sou <strong>Programadora Full-Stack Junior</strong> tentando ingressar no mundo da tecnologia!
+                <br> Conheci a área da programação em 2021.</p> 
+        <p>Atualmente sou formada pelo curso de Desenvolvimento de Sistemas, tabém me formei em Espanhol e curso Inglês.</p>
+       <a href="www.linkedin.com/in/gyovannalimadossantos">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
 
-<!--
-**glsanto-s/glsanto-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              
+</div>
