@@ -1,7 +1,7 @@
 <h3>Oii, bem-vindo(a)! 👋🏻</h3>
 <div>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=glsanto-s&show_icons=true&theme=transparent" > <br/><br/>
+          <img src="https://github-readme-stats.vercel.app/api?username=glsanto-s&show_icons=true&theme=transparent"> <br/><br/>
         </p>
         <strong>Prazer Gyovanna,</strong>
         <p>Sou <strong>Programadora Full-Stack Junior</strong> tentando ingressar no mundo da tecnologia!
